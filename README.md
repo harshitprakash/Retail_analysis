@@ -1,3 +1,3 @@
 # Retail_analysis
 
-![Database Schema](ER Digram.png)
+![Database Schema](ER_Digram.png)
